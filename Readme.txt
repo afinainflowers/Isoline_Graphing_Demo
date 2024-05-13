@@ -1,5 +1,5 @@
 How to use:
-Click "Filд Sample Data" for a nice example or "Generate data" for a random one.
+Click "Fill Sample Data" for a nice example or "Generate data" for a random one.
 Then click "Draw Isolines".
 
 Steps of the algorithm:
